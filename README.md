@@ -15,7 +15,7 @@ The project is an exercise in asynchronous JavaScript functions using "setTimeou
 - setTimeout()
 - Math.random()
 - Conditional if/else logic
-- Callback wrapping
+- Callback chaining
 
 ---
 
