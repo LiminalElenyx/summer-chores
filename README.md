@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project simulates completing a list of summer chores using JavaScript callbacks. Each chore takes arbitrarily selected values, in milliseconds, used to simulate task duration. After each chore, aside from the first of the day, there is a chance te eperson may fall asleep. I have increased the probability after each chore to simulate real-world fatigue throughout the day. 
+This project simulates completing a list of summer chores using JavaScript callbacks. Each chore takes arbitrarily selected values, in milliseconds, used to simulate task duration. After each chore, aside from the first of the day, there is a chance the person may fall asleep. I have increased the probability after each chore to simulate real-world fatigue throughout the day. 
 
 The project is an exercise in asynchronous JavaScript functions using "setTimeout" and callbacks.
 
