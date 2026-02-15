@@ -40,7 +40,7 @@ The project is an exercise in asynchronous JavaScript functions using `setTimeou
 ```bash
 node callbackVersion.js
 ```
-    b. (For Promise Version) Run Command:
+b. (For Promise Version) Run Command:
 
 ```bash
 node promiseVersion.js
