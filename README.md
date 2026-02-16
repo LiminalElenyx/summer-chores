@@ -6,6 +6,9 @@ This project simulates completing a list of summer chores using JavaScript callb
 
 This project now includes a Promise-based implementation. The Promise version is located in `promiseVersion.js` and demonstrates Promise chaining and error handling using `.catch()`.
 
+This project now includes an async/await implementation located in asyncAwaitVersion.js.
+
+
 The project is an exercise in asynchronous JavaScript functions using `setTimeout()`, callbacks, and Promises.
 
 ---
@@ -19,7 +22,10 @@ The project is an exercise in asynchronous JavaScript functions using `setTimeou
 - Conditional if/else logic
 - Callback and Promise chaining
 - resolve() and reject()
-- Error handling with .catch()
+- Error handling with .catch() 
+- Error handling with try/catch 
+- async/await
+
 
 ---
 
@@ -44,5 +50,9 @@ b. (For Promise Version) Run Command:
 
 ```bash
 node promiseVersion.js
+```
+c. (For async/await Version) Run Command:
+``` bash
+node asyncAwaitVersion.js
 ```
 The program currently runs using a pre-appointed string literal name. You can change the name directly inside the doSummerChores() function call if you wish, just have fun. 🙃
